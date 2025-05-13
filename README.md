@@ -84,7 +84,7 @@ Esses recursos são simulados no LocalStack:
 
 Você pode verificar os recursos via:
 
-* [Painel Web do LocalStack](https://docs.localstack.cloud/user-guide/web-app/)
+* [Painel Web do LocalStack](https://app.localstack.cloud/instances)
 * AWS CLI (configurada para apontar para o LocalStack)
 * Logs do Docker
 
